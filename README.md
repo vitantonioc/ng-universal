@@ -1,2 +1,2 @@
 # ng-universal
-test new branch
+test new branch ok
