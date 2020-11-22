@@ -5,4 +5,4 @@ Angular 11 Universal
 - yarn install
 
 ### Start
-- yarn run devhmr
+- yarn run devhmr 
